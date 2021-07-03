@@ -1,4 +1,4 @@
-# ML-AI
+# M5. Machine Learning & Artificial Intelligence
 
 Program Date: July 20-21
 
