@@ -3,13 +3,16 @@
 Program Date: July 20-21
 
 Shurui Li: shuruili@ucla.edu
-Tsang-Kai Chang:tsangkaichang@ucla.edu
+
+Tsang-Kai Chang: tsangkaichang@ucla.edu
+
 Aishni Parab: aishni@cs.ucla.edu
+
 Daniel: daniel.ahn.33@gmail.com
 
 Program Schedule:
 July 20th
-Session A [Shurui Li, Tsang-Kai Chang]
+Session A [Shurui Li, Daniel Ahn]
 * 10:00am - 10:55am: Introduction, Linear Regression
 * 10:55am - 11:00am: Break
 * 11:00am - 12:30pm: Coding Workshop
