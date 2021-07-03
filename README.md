@@ -8,7 +8,7 @@ Tsang-Kai Chang: tsangkaichang@ucla.edu
 
 Aishni Parab: aishni@cs.ucla.edu
 
-Daniel: daniel.ahn.33@gmail.com
+Daniel: dahn@g.ucla.edu
 
 Program Schedule:
 July 20th
