@@ -1,4 +1,4 @@
-# ML-AI
+# M5. Machine Learning & Artificial Intelligence
 
 Program Date: July 20-21
 
@@ -8,7 +8,7 @@ Tsang-Kai Chang: tsangkaichang@ucla.edu
 
 Aishni Parab: aishni@cs.ucla.edu
 
-Daniel: daniel.ahn.33@gmail.com
+Daniel Ahn: dahn@g.ucla.edu
 
 Program Schedule:
 July 20th
