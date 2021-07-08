@@ -10,8 +10,10 @@ Aishni Parab: aishni@cs.ucla.edu
 
 Daniel Ahn: dahn@g.ucla.edu
 
-Program Schedule:
+## Program Schedule
+
 July 20th
+
 Session A [Shurui Li, Daniel Ahn]
 * 10:00am - 10:55am: Introduction, Linear Regression
 * 10:55am - 11:00am: Break
