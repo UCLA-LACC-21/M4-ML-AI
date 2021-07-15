@@ -20,9 +20,9 @@ Session A [Shurui Li, Daniel Ahn]
 * 11:00am - 12:30pm: Coding Workshop
 
 Session B [Tsang-Kai Chang, Shurui Li]
-* 10:00am - 10:55am: K-Means Clustering
-* 10:55am - 11:00am: Break
-* 11:00am - 12:30pm: Coding Workshop
+* 2:00am - 3:00pm: kNN
+* 3:00pm - 4:00pm: kNN Coding Workshop
+* 4:00pm - 4:30pm: k means clustering
 
 July 21st
 
