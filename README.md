@@ -27,9 +27,9 @@ Session B [Tsang-Kai Chang, Shurui Li]
 July 21st
 
 Session C [Daniel Ahn, Aishni Parab]
-* 2:00pm - 2:55pm: Deep Learning 
-* 2:55pm - 3:00pm: Break
-* 3:00pm - 4:30pm: Coding Workshop
+* 10:00am - 10:55am: Deep Learning
+* 10:55am - 11:00am: Break
+* 11:00am - 12:30pm: Coding Workshop
 
 Session D [Aishni Parab, Daniel Ahn]
 * 2:00pm - 2:55pm: Deep Learning 
